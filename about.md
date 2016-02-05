@@ -26,4 +26,4 @@ I'm a 21 year old kid who was incredibly fortunate to walk himself ass-backwards
 
 ### Contact me
 
-[ace@1294@gmail.com](mailto:ace1294@gmail.com)
+[ace1294@gmail.com](mailto:ace1294@gmail.com)
