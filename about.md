@@ -18,11 +18,11 @@ Writing is a skill I thought I had when I was younger. I really thought it was a
 
 A skill I do have is slapping fingers on this keyboard of mine and producing code that compiles and works most of the time. My expertise right now is iOS development as I'm currently employed full-time as an iOS Developer at [RideScout](http://ridescout.com/). The story of how I got to this point is a whole different story that I'll probably blog about one of these days. Keep your eyes peeled for that one, make sure you have your popcorn ready. 
 
-So yeah, I work full-time and am a part-time student taking six hours (two classes) a semester until I finish my CS degree which should be May 2017. One of the two classes I'm taking right now is CS371p Object-Oriented Programming with the [goat](http://www.urbandictionary.com/define.php?term=goat) Glenn Downing. I've been looking forward to taking this class ever since I took CS314 with the other goat, Mike Scott. So yes, I'm a nerdy nerd pumped to take a class that is known to be entirely gruelling and time-consuming. I know I'm going to curse myself in a few weeks when I'm up till the sun comes up working on a project, yet I know it'll be worth it.
+So yeah, I work full-time and am a part-time student taking six hours (two classes) a semester until I finish my CS degree which should be May 2017. One of the two classes I'm taking right now is CS373 Software Engineering with the [goat](http://www.urbandictionary.com/define.php?term=goat) Glenn Downing. I've been looking forward to taking this class ever since I took CS314 with the other goat, Mike Scott. So yes, I'm a nerdy nerd pumped to take a class that is known to be entirely gruelling and time-consuming. I know I'm going to curse myself in a few weeks when I'm up till the sun comes up working on a project, yet I know it'll be worth it.
 
 ### Moral of the story tl;dr
 
-I'm a 21 year old kid who was incredibly fortunate to walk himself ass-backwards into a full-time job while attending a great University that is Texas. Object-Oriented Programming, bring the best you got to the table. I'm ready to take you down.
+I'm a 21 year old kid who was incredibly fortunate to walk himself ass-backwards into a full-time job while attending a great University that is Texas. Software Engineering, bring the best you got to the table. I'm ready to take you down.
 
 ### Contact me
 
