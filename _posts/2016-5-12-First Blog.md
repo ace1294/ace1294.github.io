@@ -3,8 +3,6 @@ layout: post
 title: "First Blog"
 ---
 
-Testing to see if this works.
-
 ### What did you do this past week?
 
 This past week I setup the repo for our first project collatz.  Currently I haven’t connected it to Travis and am a bit behind on the project to be brutally honest. I took Object Oriented Programming (OOP) last semester with Downing and the first project was Collatz as well. Therefore I already have all the code written to solve the problem, except that it’s all in C++. So I’m hoping that I can knock it all tomorrow and really start to get to know python. I’ve really enjoyed seeing the simplicity of it in class this past week. I think I’m going to like it even more than I liked C++.
