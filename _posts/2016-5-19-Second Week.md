@@ -21,5 +21,6 @@ Class a was a bit confusing this past week for me. Well just certain parts of it
 
 ### Tip of the week
 
-As I stated earlier I use SFTP when working on the projects. You can edit the files from CS machine on your remote computer in sublime text. I learned how to do this half way through OOP and it has saved me so much time. Just work on the file, save it, and have a terminal window open ssh-ed in and run make test. Its very simple, quick, and easy once setup. The setup sin't that bad either. Here's a great tutorial that I used. https://wbond.net/sublime_packages/sftp
+As I stated earlier I use SFTP when working on the projects. You can edit the files from CS machine on your remote computer in sublime text. I learned how to do this half way through OOP and it has saved me so much time. Just work on the file, save it, and have a terminal window open ssh-ed in and run make test. Its very simple, quick, and easy once setup. The setup sin't that bad either. Here's a great tutorial that I used.
+[SFTP Setup for Sublime Text]: https://wbond.net/sublime_packages/sftp
 
